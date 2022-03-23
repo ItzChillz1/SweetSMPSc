@@ -1,0 +1,17 @@
+name: SweetSMPSc
+version: 1
+main: chillz.staffchat.sweetsmpsc.SweetSMPSc
+api-version: 1.18
+commands:
+  modchat:
+    description: Moderator Chat
+  staffchat:
+    description: Staff Chat
+  seniorchat:
+    description: Senior Chat
+  sec:
+    description: Senior Chat
+  sc:
+    description: Staff Chat
+  mc:
+    description: Moderator Chat
